@@ -1,0 +1,6 @@
+[
+  { "orderId": "O5001", "customerId": "C001", "totalAmount": 2499, "status": "Delivered" },
+  { "orderId": "O5002", "customerId": "C002", "totalAmount": 1899, "status": "Shipped" },
+  { "orderId": "O5003", "customerId": "C004", "totalAmount": 4599, "status": "Pending" },
+  { "orderId": "O5004", "customerId": "C002", "totalAmount": 899, "status": "Cancelled" }
+]
