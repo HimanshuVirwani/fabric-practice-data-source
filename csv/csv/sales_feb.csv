@@ -1,0 +1,5 @@
+OrderID,OrderDate,Product,Region,Quantity,UnitPrice,Discount
+2001,2026-02-02,Wireless Mouse,South,6,499,10
+2002,2026-02-07,USB-C Hub,East,3,1299,0
+2003,2026-02-11,Monitor Arm,North,2,2499,5
+2004,2026-02-18,Webcam HD,West,1,1899,0
