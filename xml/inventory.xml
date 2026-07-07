@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+  <item>
+    <sku>SKU-001</sku>
+    <name>Wireless Mouse</name>
+    <stock>120</stock>
+  </item>
+  <item>
+    <sku>SKU-002</sku>
+    <name>USB-C Hub</name>
+    <stock>45</stock>
+  </item>
+  <item>
+    <sku>SKU-003</sku>
+    <name>Mechanical Keyboard</name>
+    <stock>0</stock>
+  </item>
+</inventory>
