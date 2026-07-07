@@ -1,0 +1,6 @@
+[
+  { "customerId": "C001", "name": "Ananya Gupta", "email": "ananya.g@example.com", "city": "Jaipur", "signupDate": "2025-09-12" },
+  { "customerId": "C002", "name": "Vikram Rao", "email": "vikram.rao@example.com", "city": "Ahmedabad", "signupDate": "2025-10-03" },
+  { "customerId": "C003", "name": "Farhan Ali", "email": null, "city": "Mumbai", "signupDate": "2025-11-20" },
+  { "customerId": "C004", "name": "Kavya Reddy", "email": "kavya.r@example.com", "city": "Hyderabad", "signupDate": "2026-01-05" }
+]
