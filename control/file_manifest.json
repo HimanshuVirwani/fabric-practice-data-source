@@ -1,0 +1,9 @@
+[
+  { "folder": "csv", "fileName": "sales_jan.csv", "format": "csv", "targetTable": "tbl_sales" },
+  { "folder": "csv", "fileName": "sales_feb.csv", "format": "csv", "targetTable": "tbl_sales" },
+  { "folder": "csv", "fileName": "employees.csv", "format": "csv", "targetTable": "tbl_employees" },
+  { "folder": "json", "fileName": "customers.json", "format": "json", "targetTable": "tbl_customers" },
+  { "folder": "json", "fileName": "orders.json", "format": "json", "targetTable": "tbl_orders" },
+  { "folder": "md", "fileName": "notes_jan.md", "format": "md", "targetTable": null },
+  { "folder": "xml", "fileName": "inventory.xml", "format": "xml", "targetTable": "tbl_inventory" }
+]
