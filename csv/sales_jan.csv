@@ -1,0 +1,6 @@
+OrderID,OrderDate,Product,Region,Quantity,UnitPrice
+1001,2026-01-03,Wireless Mouse,North,4,499
+1002,2026-01-05,USB-C Hub,South,2,1299
+1003,2026-01-09,Mechanical Keyboard,East,1,3499
+1004,2026-01-14,Webcam HD,North,3,1899
+1005,2026-01-20,Laptop Stand,West,5,899
